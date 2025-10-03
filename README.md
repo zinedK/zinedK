@@ -1,5 +1,5 @@
 ## 
-Backend, Frontend and Deployer of [Closetly](https://closetly.de/) - a TU Berlin Project using experimental frameworks
+Backend-, Frontend-Dev and Deployer of [Closetly](https://closetly.de/) - a TU Berlin Project using experimental frameworks
 
 
 <!--
